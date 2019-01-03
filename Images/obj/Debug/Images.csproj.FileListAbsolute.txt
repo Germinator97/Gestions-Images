@@ -1,0 +1,8 @@
+G:\Visual Studio\Images\Images\bin\Debug\Images.exe.config
+G:\Visual Studio\Images\Images\bin\Debug\Images.exe
+G:\Visual Studio\Images\Images\bin\Debug\Images.pdb
+G:\Visual Studio\Images\Images\obj\Debug\Images.Images.resources
+G:\Visual Studio\Images\Images\obj\Debug\Images.Properties.Resources.resources
+G:\Visual Studio\Images\Images\obj\Debug\Images.csproj.GenerateResource.Cache
+G:\Visual Studio\Images\Images\obj\Debug\Images.exe
+G:\Visual Studio\Images\Images\obj\Debug\Images.pdb
